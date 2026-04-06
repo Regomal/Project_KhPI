@@ -1,3 +1,4 @@
 test.py
 .venv
 .idea
+.mypy_cache/
