@@ -1,4 +1,9 @@
-test.py
-.venv
-.idea
-.mypy_cache/
+__pycache__/
+*.py[cod]
+*$py.class
+
+.venv/
+venv/
+env/
+
+.idea/
